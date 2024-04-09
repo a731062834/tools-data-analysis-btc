@@ -1,0 +1,19 @@
+[build-system]
+requires = [
+"setuptools>=42",
+"wheel",
+"jieba>=0.42.1",
+"data-analysis-tools-fdx",
+"data-analysis-tools-jms-diy",
+"data-analysis-tools-alpha",
+"data-analysis-tools-bet",
+"data-analysis-tools-cat",
+"data-analysis-tools-dog",
+"data-analysis-tools-eth",
+"data-analysis-attribute-tool-jms",
+"data-analysis-tools-jms-seg",
+"data-analysis-tfidf-tool-jms",
+"data-analysis-similarity-tool-jms",
+"tools-data-analysis-alpha",
+]
+build-backend = "setuptools.build_meta"
